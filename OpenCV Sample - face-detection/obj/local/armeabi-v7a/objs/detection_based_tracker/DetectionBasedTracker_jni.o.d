@@ -4,8 +4,8 @@ obj/local/armeabi-v7a/objs/detection_based_tracker/DetectionBasedTracker_jni.o: 
  /Users/Omi/Documents/Software/Dev/android-ndk-r10d/platforms/android-8/arch-arm/usr/include/sys/cdefs.h \
  /Users/Omi/Documents/Software/Dev/android-ndk-r10d/platforms/android-8/arch-arm/usr/include/sys/cdefs_elf.h \
  /Users/Omi/Documents/Software/Dev/android-ndk-r10d/platforms/android-8/arch-arm/usr/include/android/api-level.h \
- ../../sdk/native/jni/include/opencv2/core/core.hpp \
- ../../sdk/native/jni/include/opencv2/core/types_c.h \
+ ../OpenCV-2.4.10-android-sdk/sdk/native/jni/include/opencv2/core/core.hpp \
+ ../OpenCV-2.4.10-android-sdk/sdk/native/jni/include/opencv2/core/types_c.h \
  /Users/Omi/Documents/Software/Dev/android-ndk-r10d/platforms/android-8/arch-arm/usr/include/assert.h \
  /Users/Omi/Documents/Software/Dev/android-ndk-r10d/platforms/android-8/arch-arm/usr/include/stdlib.h \
  /Users/Omi/Documents/Software/Dev/android-ndk-r10d/platforms/android-8/arch-arm/usr/include/string.h \
@@ -33,18 +33,18 @@ obj/local/armeabi-v7a/objs/detection_based_tracker/DetectionBasedTracker_jni.o: 
  /Users/Omi/Documents/Software/Dev/android-ndk-r10d/platforms/android-8/arch-arm/usr/include/machine/limits.h \
  /Users/Omi/Documents/Software/Dev/android-ndk-r10d/platforms/android-8/arch-arm/usr/include/sys/syslimits.h \
  /Users/Omi/Documents/Software/Dev/android-ndk-r10d/platforms/android-8/arch-arm/usr/include/asm/page.h \
- ../../sdk/native/jni/include/opencv2/core/version.hpp \
+ ../OpenCV-2.4.10-android-sdk/sdk/native/jni/include/opencv2/core/version.hpp \
  /Users/Omi/Documents/Software/Dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm \
  /Users/Omi/Documents/Software/Dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/cmath \
  /Users/Omi/Documents/Software/Dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/cstddef \
  /Users/Omi/Documents/Software/Dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/complex \
  /Users/Omi/Documents/Software/Dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/map \
  /Users/Omi/Documents/Software/Dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/vector \
- ../../sdk/native/jni/include/opencv2/core/operations.hpp \
+ ../OpenCV-2.4.10-android-sdk/sdk/native/jni/include/opencv2/core/operations.hpp \
  /Users/Omi/Documents/Software/Dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/limits \
- ../../sdk/native/jni/include/opencv2/core/mat.hpp \
- ../../sdk/native/jni/include/opencv2/contrib/detection_based_tracker.hpp \
- ../../sdk/native/jni/include/opencv2/objdetect/objdetect.hpp \
+ ../OpenCV-2.4.10-android-sdk/sdk/native/jni/include/opencv2/core/mat.hpp \
+ ../OpenCV-2.4.10-android-sdk/sdk/native/jni/include/opencv2/contrib/detection_based_tracker.hpp \
+ ../OpenCV-2.4.10-android-sdk/sdk/native/jni/include/opencv2/objdetect/objdetect.hpp \
  /Users/Omi/Documents/Software/Dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/deque \
  /Users/Omi/Documents/Software/Dev/android-ndk-r10d/platforms/android-8/arch-arm/usr/include/android/log.h
 
@@ -58,9 +58,9 @@ jni/DetectionBasedTracker_jni.h:
 
 /Users/Omi/Documents/Software/Dev/android-ndk-r10d/platforms/android-8/arch-arm/usr/include/android/api-level.h:
 
-../../sdk/native/jni/include/opencv2/core/core.hpp:
+../OpenCV-2.4.10-android-sdk/sdk/native/jni/include/opencv2/core/core.hpp:
 
-../../sdk/native/jni/include/opencv2/core/types_c.h:
+../OpenCV-2.4.10-android-sdk/sdk/native/jni/include/opencv2/core/types_c.h:
 
 /Users/Omi/Documents/Software/Dev/android-ndk-r10d/platforms/android-8/arch-arm/usr/include/assert.h:
 
@@ -116,7 +116,7 @@ jni/DetectionBasedTracker_jni.h:
 
 /Users/Omi/Documents/Software/Dev/android-ndk-r10d/platforms/android-8/arch-arm/usr/include/asm/page.h:
 
-../../sdk/native/jni/include/opencv2/core/version.hpp:
+../OpenCV-2.4.10-android-sdk/sdk/native/jni/include/opencv2/core/version.hpp:
 
 /Users/Omi/Documents/Software/Dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm:
 
@@ -130,15 +130,15 @@ jni/DetectionBasedTracker_jni.h:
 
 /Users/Omi/Documents/Software/Dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/vector:
 
-../../sdk/native/jni/include/opencv2/core/operations.hpp:
+../OpenCV-2.4.10-android-sdk/sdk/native/jni/include/opencv2/core/operations.hpp:
 
 /Users/Omi/Documents/Software/Dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/limits:
 
-../../sdk/native/jni/include/opencv2/core/mat.hpp:
+../OpenCV-2.4.10-android-sdk/sdk/native/jni/include/opencv2/core/mat.hpp:
 
-../../sdk/native/jni/include/opencv2/contrib/detection_based_tracker.hpp:
+../OpenCV-2.4.10-android-sdk/sdk/native/jni/include/opencv2/contrib/detection_based_tracker.hpp:
 
-../../sdk/native/jni/include/opencv2/objdetect/objdetect.hpp:
+../OpenCV-2.4.10-android-sdk/sdk/native/jni/include/opencv2/objdetect/objdetect.hpp:
 
 /Users/Omi/Documents/Software/Dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/deque:
 
